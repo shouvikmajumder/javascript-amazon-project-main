@@ -1,4 +1,6 @@
-export const cart = []
+export const cart = [ 
+
+]
 
 export function addtocart(productId){
     let mathchingItem; 
